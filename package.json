@@ -1,0 +1,25 @@
+{
+  "name": "lib-demo",
+  "version": "1.0.0",
+  "description": "Abhishek Nag first demo lib",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagabhishek/npmmodule.git"
+  },
+  "keywords": [
+    "lib",
+    "demo",
+    "math",
+    "function"
+  ],
+  "author": "Abhishek Nag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagabhishek/npmmodule/issues"
+  },
+  "homepage": "https://github.com/nagabhishek/npmmodule#readme"
+}
